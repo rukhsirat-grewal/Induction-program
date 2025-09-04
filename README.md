@@ -29,7 +29,7 @@ The day began with the recitation of *Japji Sahib* at the college Gurdwara Sahib
    > _"You are our mother and father; we are Your children."_
 
 The calm atmosphere, positive energy, and divine blessings made for a beautiful start.
-![Uploading image.png…]()
+<img src="Foundation Stone">
 
 ---
 
