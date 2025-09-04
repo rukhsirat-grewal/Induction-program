@@ -67,6 +67,8 @@ Visited the labs and classrooms — all well-furnished and welcoming. Felt reass
   - Career choices aligned with happiness & prosperity
 
 > "_Focus on things that let you be happy, prosperous and at peace in every moment._"
+>
+> <img src="Priya mam.jpeg">
 
 ---
 
