@@ -196,7 +196,7 @@ The sense of **familiarity and comfort** being built in these few days would’v
 - Shared experiences, tips for balancing academics and fun
 - Encouraged participation in cultural events
 - Friendly vibe made it easy to open up
-<img src="...">
+<img src="WhatsApp Image 2025-09-29 at 22.34.17 (1).jpeg">
 ---
 
 ### 🥣 Session on **"Millets: A Superfood"** by Mrs. Shaffy Makkar
@@ -208,6 +208,7 @@ The sense of **familiarity and comfort** being built in these few days would’v
   - Rich in protein and minerals
   - More fiber than wheat/rice
   - Must be **soaked before cooking** for maximum nutrition
+  - <img src="WhatsApp Image 2025-09-29 at 22.34.17.jpeg">
 
 > _"Don't sacrifice health for hustle. Take care of what you consume."_
 
@@ -226,10 +227,12 @@ I'm excited to see how this journey unfolds! ✨
 The day began with HOD mam Mrs. Harpreet Kaur Grewal leading the chanting of the *Mool Mantra*, followed by Dr. Parminder Singh, Dean of Student Welfare. He introduced us to all the societies, clubs, and amenities offered by the college. This session was highly informative and helped us become more familiar with the college.
 
 Next, Mr. Manpreet Singh delivered a powerful lecture on **“Fitness for Engineers.”** He spoke about the dangers of unhealthy diets and drug addiction, emphasizing the importance of regular exercise and a good diet. He urged all students to avoid alcohol and other substances that can harm the body and family.
+<img src="Mr Manpreet Singh.jpeg">
 
 Students asked several questions about **whey protein**, **steroids**, and **weight loss tips**, to which he gave clear and powerful insights. He also shared his personal story of transformation, motivating us to prioritize fitness and discipline in our lives as engineers.
 
 After this, the **NCC students** showcased the achievements and dedication of NCC cadets. This was followed by a warm welcome to **Brigadier P. S. Cheema**, who used poetic lines on patriotism and humility to inspire us. He encouraged us to join NCC and voiced concerns about the youth's direction today.
+<img src="Brigadier P. S. Cheema.jpeg">
 
 We then had our **Physics lecture** by Prof. Jaspreet Singh, who introduced the syllabus and provided tips on scoring well.
 
@@ -245,6 +248,7 @@ Our day started at 9:30 AM with a **Physics lecture** by Mr. Jaspreet Singh. He 
 Next was a **Maths lecture** by Prof. Sandeep Kaur Gill, where we revised **differentiation** and **basic calculus**. She asked conceptual questions and interacted with every student. I was happy to answer 3–4 questions correctly.
 
 After an hour-long break, we went to the auditorium for a session with **Dr. Lakhvir Singh Khana**, In-charge of the **Centre for Multifaceted Learning (CML)**. He praised our enthusiasm and introduced the various activities organized by CML. He also spoke about **NPTEL** and **SWAYAM**, platforms offering online courses in collaboration with the IITs. He gave a demo on how to create a profile and enroll in courses.
+<img src="Dr. Lakhvir Singh.jpeg">
 
 Later, **Dr. Jasvir Singh Grewal**, in charge of **NSS**, recited the *Shabad* by Guru Arjan Dev Ji in Raag Kalyan:
 
@@ -255,8 +259,10 @@ It was beautifully sung by students and filled the hall with peace and positivit
 
 A **Sanskrit raag** followed, starting with:  
 > *“रैना बीती जाये, श्याम ना आये |”*
+> <img src="Dr. Jasvir Singh Grewal.jpeg">
 
 After this, we watched a **Midway Island** documentary that showed how plastic pollution is affecting bird life. It deeply moved us and reinforced the environmental goals of NSS.
+ <img src="Dr. Jasvir Singh Grewal nss.jpeg">
 
 Finally, a fun game was played where two students had to make each other laugh in 60 seconds — none succeeded, but it brought a lot of laughter to the auditorium. Two NSS members also performed a hilarious act that entertained everyone.
 
@@ -270,6 +276,7 @@ Finally, a fun game was played where two students had to make each other laugh i
 ### 🧮 Mathemagic Club Introduction  
 
 The session began with an introduction by the **Mathemagic Club** members. They announced a fun and engaging competition titled **"Synergy"**, scheduled for **6th September**.
+ <img src="Maths Club.jpeg">
 
 **Highlights:**
 - Emphasis on the importance of mathematics in all engineering disciplines.
@@ -284,6 +291,7 @@ The **English Club** members took the stage next to talk about their mission and
 **Focus Areas:**
 - Building self-confidence
 - Enhancing overall personality and communication skills
+<img src="English Club.jpeg">
 
 They organized a super fun activity where students had to **guess the meanings of Gen-Z slang** like:
 - *Tea*
@@ -297,6 +305,7 @@ They organized a super fun activity where students had to **guess the meanings o
 
 **Speaker:** Mr. Jitendra (Ikigai School of Technology)  
 **Topic:** Importance of AI in the Modern World
+<img src="Mr. Jitendra IKIGAI.jpeg">
 
 Key points:
 - AI is rapidly growing across all industries.
@@ -340,6 +349,7 @@ Key takeaways:
 
 **Speaker:** Mr. Jaswinder  
 A highly **interactive and fun** session filled with laughter and practical knowledge.
+<img src="Mr. Jaswinder.jpeg">
 
 **Highlights:**
 - Demonstrated a shortcut to add 10 numbers in seconds.
@@ -358,6 +368,7 @@ A highly **interactive and fun** session filled with laughter and practical know
 
 She is dedicated to **promoting local talent in Punjab**.  
 Her message: *“Punjab has as much talent as any metro city — we just need to believe in ourselves.”*
+<img src="Riya Arora ma'am.jpeg">
 
 ---
 
@@ -373,6 +384,7 @@ Focused on **making math fun and engaging**.
 A short but impactful **skit** was performed, showing:
 - Two candidates appearing for a job interview.
 - Despite good academics, one gets **rejected due to poor spoken English**, while the fluent speaker gets selected.
+- <img src="English club skit.jpeg">
 
 📌 **Lesson:** Communication skills are **just as important** as academic performance.
 
