@@ -1,7 +1,12 @@
 # Induction-program
-Rukhsirat Kaur Grewal btech  Ece 
-#Day 1
-##30 july 2025
+## Name-Rukhsirat Kaur Grewal 
+
+## Fathers name- S Gurinder Singh Grewal
+
+## Branch- ECE
+
+## Roll Number- 2517077
+
 # 🏫 GNDEC Ludhiana: College Induction Program  (2025)
 
 Welcome to my college journey! This repository documents my experience during the first few days at Guru Nanak Dev Engineering College, Ludhiana. These days marked the beginning of a new chapter—full of opportunities, spirituality, learning, and self-growth.
