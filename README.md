@@ -11,7 +11,7 @@
 
 Welcome to my college journey! This repository documents my experience during the first few days at Guru Nanak Dev Engineering College, Ludhiana. These days marked the beginning of a new chapter—full of opportunities, spirituality, learning, and self-growth.
 
-## 📅 Day 1  30 july 2025: A New Beginning
+## 📅 Day 1[ 30 july 2025]: A New Beginning
 
 After completing class 12th, stepping into college feels like entering a new world full of opportunities, challenges, and discoveries.
 
@@ -196,7 +196,7 @@ The sense of **familiarity and comfort** being built in these few days would’v
 - Shared experiences, tips for balancing academics and fun
 - Encouraged participation in cultural events
 - Friendly vibe made it easy to open up
-
+<img src="...">
 ---
 
 ### 🥣 Session on **"Millets: A Superfood"** by Mrs. Shaffy Makkar
