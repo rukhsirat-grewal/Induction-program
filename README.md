@@ -112,6 +112,77 @@ Visited the labs and classrooms — all well-furnished and welcoming. Felt reass
 - A warm and supportive learning environment
 
 ---
+# Day 3 - Induction Program  
+**Date:** 04/08/2025  
+
+---
+
+### 🌅 Morning Session  
+
+**HOD Ma’am’s Address**  
+The day began on a positive note with the HOD ma’am greeting everyone and starting the session with the *Mool Mantara*, setting a spiritual and motivating tone for the day. She emphasized the importance of the induction program, explaining its purpose and why it deserves our full attention.
+
+---
+
+### 🎤 Causmic Club Introduction  
+
+**Presented by:** Ms. Taranpreet (Convenor)  
+The **Causmic Club** members took the stage to present their club's activities. This club resonated deeply with my personal interests in:
+
+- Managing events
+- Ideating fun and engaging activities
+
+I developed these interests during my time on the **Administrative Council** in school, and I’m excited to explore them further through this club.
+
+---
+
+### 🧠 Universal Human Values Session  
+
+**Speaker:** Dr. Priya Darshini (2nd session)  
+
+**Topic:** Building stable and happy relationships with family and friends.  
+
+Key takeaways:
+- Our previous discussion focused on **self-understanding** and being **happy within**.
+- Today, we learned that **false assumptions** → **misunderstandings** → **communication gaps** → result in **discomfort** and **irritability**.
+- Maintaining peace within is essential for a stress-free career and healthy relationships.
+
+---
+
+### ✍️ English Lecture  
+
+**Instructor:** Prof. Aastik Sharma  
+
+Activities included:
+- Writing an introduction
+- Listing our strengths and weaknesses
+- Answering: *Why did you choose this college?*
+
+Later, students introduced themselves one by one. Prof. Sharma shared valuable tips on structuring a proper self-introduction.
+
+---
+
+### 💻 P2P Programming Class  
+
+**Session by:** Senior students  
+**Topic:** Basics of programming in **C++**
+
+This was an interactive peer-to-peer session where the seniors started with the fundamentals of programming.
+
+---
+
+### 🧭 Reflections  
+
+A **great day overall**. It’s clear that this induction is laying the groundwork for our next 4 years in college.  
+
+We are learning:
+- How to listen and understand
+- How to interact effectively
+- How to stay focused for long durations
+
+The sense of **familiarity and comfort** being built in these few days would’ve taken weeks otherwise. This initiative is truly **commendable**.
+
+---
 
 ## 📅 Day 4: Millets, Health & Diet Awareness
 
@@ -186,6 +257,144 @@ Finally, a fun game was played where two students had to make each other laugh i
 
 > **Takeaway from the day:**  
 > The last session was truly eye-opening, reminding us of the urgent need to protect our environment and rethink how our actions affect wildlife and health.
+> # Day 7 - Induction Program  
+**Date:** 23/08/2025  
+
+---
+
+### 🧮 Mathemagic Club Introduction  
+
+The session began with an introduction by the **Mathemagic Club** members. They announced a fun and engaging competition titled **"Synergy"**, scheduled for **6th September**.
+
+**Highlights:**
+- Emphasis on the importance of mathematics in all engineering disciplines.
+- Their motto: *“Why not make math fun?”*
+
+---
+
+### 🗣️ English Club Session  
+
+The **English Club** members took the stage next to talk about their mission and activities.
+
+**Focus Areas:**
+- Building self-confidence
+- Enhancing overall personality and communication skills
+
+They organized a super fun activity where students had to **guess the meanings of Gen-Z slang** like:
+- *Tea*
+- …and more!
+
+💬 The entire auditorium was filled with laughter — a truly engaging session!
+
+---
+
+### 🤖 Guest Lecture: AI & Data Science  
+
+**Speaker:** Mr. Jitendra (Ikigai School of Technology)  
+**Topic:** Importance of AI in the Modern World
+
+Key points:
+- AI is rapidly growing across all industries.
+- Those **without knowledge of AI** will be replaced by those **with AI expertise**.
+- It's essential for our generation to start learning AI early on to stay relevant in the job market.
+
+---
+
+### 📌 Summary  
+
+A short but insightful day of induction.  
+We explored:
+- The **fun side of mathematics**
+- The **importance of communication skills**
+- # Day 8 - Induction Program  
+**Date:** 30/08/2025  
+
+---
+
+### 🙏 Morning Session  
+
+The day began with the recitation of the **Mool Mantra**, initiated by **Mrs. Harpreet**, creating a calm and spiritual atmosphere.
+
+---
+
+### 🥗 Guest Lecture: Food & Nutrition  
+
+**Speaker:** Mr. Arsh (Professor, Food Processing Dept., PAU Ludhiana)  
+
+**Topic:** How Food Affects Our Body
+
+Key takeaways:
+- Most food trends on social media (about 90%) are **myths**.
+- **Wheat** cannot be entirely replaced in our diets as it's been a staple since childhood.
+- It’s not about harsh food restrictions — it’s about being **aware of portion sizes** and **balanced eating**.
+- Children should not be too hard on themselves when it comes to dieting.
+
+---
+
+### 🚀 Jaswin’s Lab on Wheels  
+
+**Speaker:** Mr. Jaswinder  
+A highly **interactive and fun** session filled with laughter and practical knowledge.
+
+**Highlights:**
+- Demonstrated a shortcut to add 10 numbers in seconds.
+- Shared life wisdom:  
+  > "God is present in everything. One who recites His name gains strength and prosperity, but the greedy never find peace or success."
+- Conducted a **math experiment**:
+  - Students wrote 3-digit numbers, reversed them, and subtracted.
+  - The result always came out as **9** — symbolizing *Naam* (God’s name) in Punjabi.
+- Built a **water bottle rocket**, which fascinated the whole audience.
+
+---
+
+### 🌟 Motivational Talk by Riya Arora  
+
+**Speaker:** Riya Arora (Director, MAAC Ludhiana)  
+
+She is dedicated to **promoting local talent in Punjab**.  
+Her message: *“Punjab has as much talent as any metro city — we just need to believe in ourselves.”*
+
+---
+
+### 🔢 Mathemagic Club Introduction (Recap)  
+
+A brief recap of the club's goals and upcoming activities.  
+Focused on **making math fun and engaging**.
+
+---
+
+### 🎭 Skit by English Club  
+
+A short but impactful **skit** was performed, showing:
+- Two candidates appearing for a job interview.
+- Despite good academics, one gets **rejected due to poor spoken English**, while the fluent speaker gets selected.
+
+📌 **Lesson:** Communication skills are **just as important** as academic performance.
+
+---
+
+### 🧪 Chemovat Society (Chemistry Club)  
+
+Members of the **Chemovat Society** gave a brief about their club and activities.
+
+**Notable Initiative:**  
+- **Free tuitions for underprivileged students** — a truly inspiring and commendable effort for all of us.
+
+---
+
+### 📌 Summary  
+
+An incredibly **diverse and engaging day** filled with:
+- Wisdom about food and balanced living  
+- Practical science with a spiritual twist  
+- Real-world lessons about communication and career readiness  
+- Inspiring initiatives that show how we can make a difference  
+
+Every session today left a lasting impact and showcased the importance of **learning beyond textbooks**.
+
+---
+
+
 
 
 
